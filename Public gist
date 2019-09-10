@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am miken-99 on github.
+  * I am miken99 (https://keybase.io/miken99) on keybase.
+  * I have a public key ASDK9d3nlzQlzPDE9Aq1-9m0uW6sOc0CLf570INBX3PC1go
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120caf5dde7973425ccf0c4f40ab5fbd9b4b96eac39cd022dfe7bd083415f73c2d60a",
+      "host": "keybase.io",
+      "kid": "0120caf5dde7973425ccf0c4f40ab5fbd9b4b96eac39cd022dfe7bd083415f73c2d60a",
+      "uid": "209e79efb78cca8e903369445e7d2b19",
+      "username": "miken99"
+    },
+    "merkle_root": {
+      "ctime": 1568155841,
+      "hash": "3fde7fcbc8acf44d489d8c07952edbf27dbd83a6d1b28f195e09dee7ab017213079ecd773bc6fe92175ecc293200f86f6a8e89afac0e9e1bf649e6a9a488eeac",
+      "hash_meta": "a865888fcfe0fd6b6330ca1b8e08499a454df85353718dbe95e55bcc10532f73",
+      "seqno": 6535004
+    },
+    "service": {
+      "entropy": "zHPE88jNX4zjkugBfu42Xbee",
+      "name": "github",
+      "username": "miken-99"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568155952,
+  "expire_in": 504576000,
+  "prev": "8e23f7aa4732c233d76006991c80cffa6508f989d2605fb2d4126b94ceffa230",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASDK9d3nlzQlzPDE9Aq1-9m0uW6sOc0CLf570INBX3PC1go](https://keybase.io/miken99), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyvXd55c0JczwxPQKtfvZtLlurDnNAi3+e9CDQV9zwtYKp3BheWxvYWTESpcCDcQgjiP3qkcywjPXYAaZHIDP+mUI+YnSYF+y1BJrlM7/ojDEIPqKIplkKldmkYOAU+VWyeTUy8Ni+LJ+JHksveCzhJrtAgHCo3NpZ8RAX54iJwp7iIgUw+dBkp6O2KsCj9VnnS68YPOdlLy6eW5ORhml0kPUpxW7r54RQF0OSLb7/BWTITRJgHRVlP+nAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDqbeuW0pONlOdww2jmgrUFk2+O1cyvDv9XiwmWCP4pZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/miken99
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id miken99
+```
